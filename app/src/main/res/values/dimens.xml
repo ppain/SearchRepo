@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_20">20dp</dimen>
+    <dimen name="dp_40">40dp</dimen>
+
+    <dimen name="sp_10">10sp</dimen>
+    <dimen name="sp_16">18sp</dimen>
+</resources>

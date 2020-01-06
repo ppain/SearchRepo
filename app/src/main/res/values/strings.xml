@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SearchRepo</string>
+
+    <string name="input_pass">Input password</string>
+    <string name="input_login">Input login</string>
+    <string name="enter">Log in</string>
+    <string name="or">- or -</string>
+    <string name="without_auth">Continue without authorization</string>
+    <string name="search_hint">Input repo name</string>
+    <string name="logIn">log in</string>
+    <string name="logOut">log out</string>
+</resources>
